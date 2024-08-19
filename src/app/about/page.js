@@ -41,13 +41,13 @@ export default function Home() {
      </div>
      <div className="carousel-inner">
        <div className="carousel-item active">
-         <img src="https://lh5.googleusercontent.com/obCPpguxfpMCiEcvM-v87EWvdHZMTKKYbiG9uXoxJkXpt0uTX06LhjB7WTGj4CFQex3EsPotF9Yhx5g-qk1_6uo1TthWzO0kITFiI1jEoQ-8bv3HwKuff-85UI2AwFZJzMeWVgau" className="d-block w-100" alt="..." />
+         <img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/04/jujutsu-kaisen-season-2-key-visual.jpg" className="d-block w-100" alt="..." />
        </div>
        <div className="carousel-item">
          <img src="https://lh3.googleusercontent.com/B7JsctmG1orydjnB3FYdqnywMTvHnndAfPh_IbJ64V3mlZyP7HE7GtDUAcCz2LGUyW4Hp2zf7tsa2AFTcMeuWV9CUDPcawfxI1i8ASuxG-P7MWXnNqkRnah0R-aj8U5o-fbD3O44" className="d-block w-100" alt="..." />
        </div>
        <div className="carousel-item">
-         <img src="https://lh6.googleusercontent.com/27187i5uRLOMykJFxIacCPDLWadJWVgyF3BIQ2iWHN9LhfKY7zPrJTabQesCKAOY9nTJR9dQ3v6B9uKuNrfM3ut10zm8Ni1wYWiti44i3p8_JVwtOd9hrh2r74SbWQweuoZ7eLZ_" className="d-block w-100" alt="..." />
+         <img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/04/jujutsu-kaisen-season-2-key-visual.jpg" className="d-block w-100" alt="..." />
        </div>
      </div>
      <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -73,7 +73,7 @@ export default function Home() {
                  </div>
          <div className="col-4 text center" >
              <div className="card" style={{width: '34rem'}}>
-               <img src="https://lh5.googleusercontent.com/obCPpguxfpMCiEcvM-v87EWvdHZMTKKYbiG9uXoxJkXpt0uTX06LhjB7WTGj4CFQex3EsPotF9Yhx5g-qk1_6uo1TthWzO0kITFiI1jEoQ-8bv3HwKuff-85UI2AwFZJzMeWVgau" className="card-img-top" alt="..." />
+               <img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/04/jujutsu-kaisen-season-2-key-visual.jpg" className="card-img-top" alt="..." />
                  <div className="card-body">
                    <h5 className="card-title">Card title</h5>
                      <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
